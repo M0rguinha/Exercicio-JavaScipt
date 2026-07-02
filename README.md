@@ -9,6 +9,7 @@ Utilizando metodos pra seleção de numeros pra um jogo de adivinhação
 alguns exercicio incluindo estrutura de repetição e numero aleatorio:
 
 =================
+
 alert('Boas-vindas ao jogo da adivinhação!');
 =================
 
