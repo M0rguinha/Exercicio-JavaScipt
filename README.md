@@ -11,22 +11,27 @@ alguns exercicio incluindo estrutura de repetição e numero aleatorio:
 =================
 
 alert('Boas-vindas ao jogo da adivinhação!');
+
 =================
 
 =================
+
 let nome = 'Morgan';
 console.log(nome);
 let nome = prompt('digite seu nome')
 prompt('digite seu nome')
+
 =================
 
 =================
+
 numeroMaximo = 10;
 if (numeroMaximo > 10) {
 alert('numeroMaximo é 10')
 }else {
     alert('numeroMaximo é mennor que 10')
 }
+
 =================
 
 =================
@@ -39,6 +44,7 @@ while (contador < 10) {
     }
 
 =================
+
 let numeroAleaatorio = prompt('digite um número');
 if  (numeroAleaatorio == 10) {
     alert('Você acertou o número secreto!')
@@ -46,9 +52,12 @@ if  (numeroAleaatorio == 10) {
 }else {
     alert('Você errou o número secreto!')
 }
+
 ================
 
 =================
+
 numeroAleatorio = parseInt(Math.random() * 10 + 1 );
 console.log(numeroAleatorio);
+
 =================
